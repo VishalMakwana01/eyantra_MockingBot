@@ -128,7 +128,7 @@ if __name__ == "__main__":
     # code for checking output for single audio file
     path = os.getcwd()
 
-    file_name = path + "\Task_1.1_Audio_files\Audio_3.wav"
+    file_name = path + "\Task_1.1_Audio_files\Audio_1.wav"
     audio_file = wave.open(file_name)
 
     Detected_Note = note_detect(audio_file)
