@@ -1,0 +1,18 @@
+
+Task 1.1 : 
+
+	Detected Notes = ['', '', '', '', '', '']
+
+Task 1.2A : 
+
+	Onsets = [[], [], []]
+	Detected Notes = [[], [], []]
+
+Task 1.2B : 
+
+	Notes Duration = [],
+			[],
+			[]
+	Silence Duration = [],
+			[],
+			[]
